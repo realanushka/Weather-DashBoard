@@ -44,6 +44,9 @@ Javascript, React, CSS
 - 5-Day Weather Forecast
 
 
+![Logo](http://openweathermap.org/img/wn/01d@2x.png)
+
+
 ## Demo
 ![w1-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/bb3adc4a-55e8-43a8-98c2-777bfa9be1f7)
 
