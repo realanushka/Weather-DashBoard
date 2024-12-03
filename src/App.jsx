@@ -65,5 +65,3 @@ const App = () => {
 }
 
 export default App;
-
-// http://openweathermap.org/img/wn/01d@2x.png
