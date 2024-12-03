@@ -34,6 +34,12 @@ BASE_URL = 'https://api.openweathermap.org/data/2.5/'
 ```
 
 
+# To Run the Project
+```
+npm run dev
+```
+- Then click on link "http://localhost:3000/"
+
 ## 🛠 Tools and Technologies
 Javascript, React, CSS
 
