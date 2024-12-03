@@ -26,3 +26,4 @@ const Forecast = ({title, data}) => {
 }
 
 export default Forecast;
+
