@@ -78,3 +78,4 @@ const getFormattedWeatherData = async(searchParams) => {
 
 
 export default getFormattedWeatherData;
+
