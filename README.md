@@ -56,8 +56,8 @@ BASE_URL = 'https://api.openweathermap.org/data/2.5/'
 
 
 ## 🔗 Links
-[![portfolio](https://github.com/realanushka)]
-[![linkedin](https://www.linkedin.com/in/anushka-gupta17/)]
+[![portfolio](https://github.com/realanushka)](https://katherineoelsner.com/)
+[![linkedin](https://www.linkedin.com/in/anushka-gupta17/)](https://www.linkedin.com/)
 
 
 ## Feedback
