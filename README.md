@@ -28,6 +28,10 @@ npm i react-toastify
 ```
 
 
+## 🛠 Tools and Technologies
+Javascript, React, CSS
+
+
 ## Features
 
 - Temperature (°C, °F, minimum & maximum)
