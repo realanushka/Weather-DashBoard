@@ -101,3 +101,5 @@ const TempAndDetails = ({
 }
 
 export default TempAndDetails;
+
+
