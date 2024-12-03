@@ -9,7 +9,5 @@ Currently, two official plugins are available:
 
 
 ## Demo
-![Uploading w1-ezgif.com-video-to-gif-converter.gif…]()
-
-
+![w1-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/bb3adc4a-55e8-43a8-98c2-777bfa9be1f7)
 
