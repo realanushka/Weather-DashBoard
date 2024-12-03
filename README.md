@@ -9,6 +9,25 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 
+## Installation
+
+Install my-project with npm
+
+```
+npm i create-vite
+npm i
+
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+
+npm i react-icons
+
+npm i luxon
+
+npm i react-toastify
+```
+
+
 ## Features
 
 - Temperature (°C, °F, minimum & maximum)
