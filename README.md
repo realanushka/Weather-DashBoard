@@ -52,6 +52,11 @@ API_KEY = '0becde74f5a0a4e559b503139a2fc835'
 BASE_URL = 'https://api.openweathermap.org/data/2.5/'
 
 
+## 🔗 Links
+[![portfolio](https://github.com/realanushka)]
+[![linkedin](https://www.linkedin.com/in/anushka-gupta17/)]
+
+
 ## Feedback
 
 If you have any feedback, please reach out to us at annussha.gupta@gmail.com
