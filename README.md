@@ -8,8 +8,8 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 
+## Demo
+![Uploading w1-ezgif.com-video-to-gif-converter.gif…]()
 
 
-
-https://github.com/user-attachments/assets/c45de3df-b567-45be-b517-6419194287f4
 
