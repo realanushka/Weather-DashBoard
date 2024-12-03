@@ -1,4 +1,4 @@
-# Project Title- Weather Dashboard (Using OpenWeatherMap API)
+# Weather Dashboard (Using OpenWeatherMap API)
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 
