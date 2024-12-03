@@ -40,3 +40,4 @@ const TopButtons = ({setQuery}) => {
 }
 
 export default TopButtons;
+
