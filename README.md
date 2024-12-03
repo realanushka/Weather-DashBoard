@@ -9,4 +9,7 @@ Currently, two official plugins are available:
 
 
 
-file:///F:/ashi/aaaa.mp4
+
+
+https://github.com/user-attachments/assets/c45de3df-b567-45be-b517-6419194287f4
+
